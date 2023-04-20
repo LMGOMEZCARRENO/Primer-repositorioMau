@@ -1,2 +1,1 @@
-# Primer-repositorioMau
-Este es mi primer repositorio
+Este es un ejercicio de como hacer un repositorio y clonarlo desde github a mi escritorio, Mau 200423.
